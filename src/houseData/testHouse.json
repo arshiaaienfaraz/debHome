@@ -1,0 +1,31 @@
+{
+  "name": "Bem Park 2 Bedroom Modern Flat",
+  "description": "Quiet Cozy 2 Bedroom Flat",
+  "image": "/images/testHouse.png",
+  "attributes": [
+    {
+      "address": "Address",
+      "value": "4028 Debrecen, Simonyi ut 1"
+    },
+    {
+      "purchase_price": "Purchase Price",
+      "value": ""
+    },
+    {
+      "beds": "Bed Rooms",
+      "value": 2
+    },
+    {
+      "baths": "Bathrooms",
+      "value": 1
+    },
+    {
+      "square_meter": "Square Meter",
+      "value": 78
+    },
+    {
+      "year_built": "Year Built",
+      "value": 2017
+    }
+  ]
+}

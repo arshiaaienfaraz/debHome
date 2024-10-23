@@ -1,0 +1,33 @@
+{
+  "name": "Egyetem Tower Penthouse",
+  "address": "4032 Debrecen, Egyetem sgrt. 56",
+  "description": "Luxury Penthouse located close to University",
+  "image": "/images/house1.png",
+  "id": "1",
+  "attributes": [
+    {
+      "trait_type": "Purchase Price",
+      "value": 20
+    },
+    {
+      "trait_type": "Type of Residence",
+      "value": "Condo"
+    },
+    {
+      "trait_type": "Bed Rooms",
+      "value": 3
+    },
+    {
+      "trait_type": "Bathrooms",
+      "value": 2
+    },
+    {
+      "trait_type": "Square Meter",
+      "value": 148
+    },
+    {
+      "trait_type": "Year Built",
+      "value": 2023
+    }
+  ]
+}
